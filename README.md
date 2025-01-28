@@ -14,6 +14,21 @@
 - Aprimorando habilidades em: MySQL, C#, .NET, HTML e CSS.
 - Buscando sempre novos desafios e oportunidades de crescimento.
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielMendes&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);" /> 
-  
+### 📊 Estatísticas
+<table>
+<tr>
+<td>
+<img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=joao-thd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      />
+  <td>
+<img 
+        alt="Top Langs" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-thd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+</td>
 <table align="left" style="border-collapse: collapse; margin: 40px 0; padding: 20px;"> <tr> <td align="center" style="padding: 15px; border: 2px solid #444; border-radius: 10px; background-color: #5e3f8c; color: #ffffff;"> <b>MySQL</b><br> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" /> </td> <td align="center" style="padding: 15px; border: 2px solid #444; border-radius: 10px; background-color: #5e3f8c; color: #ffffff;"> <b>C#</b><br> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />  </td> <td align="center" style="padding: 15px; border: 2px solid #444; border-radius: 10px; background-color: #5e3f8c; color: #ffffff;"> <b>HTML</b><br> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" /> </td> <td align="center" style="padding: 15px; border: 2px solid #444; border-radius: 10px; background-color: #5e3f8c; color: #ffffff;"> <b>CSS</b><br> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" /> </td> </tr> </table>
+
