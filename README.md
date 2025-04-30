@@ -11,7 +11,7 @@
 ## Sobre Mim
 
 - Estudante dedicado ao desenvolvimento de software.
-- Aprimorando habilidades em: MySQL, C#, .NET, HTML e CSS.
+- Aprimorando habilidades em: MySQL, C#, .NET, HTML , CSS , JavaScript e Angular.
 - Buscando sempre novos desafios e oportunidades de crescimento.
 
 ### 📊 Estatísticas
