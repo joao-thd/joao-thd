@@ -85,9 +85,8 @@
 
 ## 📫 Contato
 
-- 💼 LinkedIn: [linkedin.com/in/joao-thd](https://linkedin.com/in/joao-thd)
-- 📧 Email: seu-email-aqui@gmail.com
-- 🌐 Portfólio (se tiver): [seusite.com](https://seusite.com)
+- 💼 LinkedIn: [linkedin.com/in/joao-thd]([https://linkedin.com/in/joao-thd](https://www.linkedin.com/in/jo%C3%A3o-gabriel-mendes-686102328/))
+- 📧 Email: joaogabrielmendes047@gmail.com
 
 ---
 
