@@ -17,6 +17,23 @@
 
 ---
 
+## 🧰 Tecnologias que uso
+
+<div align="center">
+
+<img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" title="C#"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
+<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
+<img src="https://img.icons8.com/color/48/000000/net-framework.png" alt="ASP.NET" title="ASP.NET"/>
+
+</div>
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -35,53 +52,10 @@
 
 ---
 
-## 🧰 Tecnologias que uso
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-  <b>MySQL</b><br>
-  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" />
-</td>
-<td align="center">
-  <b>C#</b><br>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
-</td>
-<td align="center">
-  <b>HTML5</b><br>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
-</td>
-<td align="center">
-  <b>CSS3</b><br>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" />
-</td>
-<td align="center">
-  <b>JavaScript</b><br>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" />
-</td>
-<td align="center">
-  <b>Angular</b><br>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" />
-</td>
-<td align="center">
-  <b>ASP.NET</b><br>
-  <img src="https://img.icons8.com/color/48/000000/net-framework.png" />
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-
 ## 📫 Contato
 
-- 💼 LinkedIn: [linkedin.com/in/joao-thd]([https://linkedin.com/in/joao-thd](https://www.linkedin.com/in/jo%C3%A3o-gabriel-mendes-686102328/))
+- 💼 LinkedIn: [linkedin.com/in/joao-thd](https://www.linkedin.com/in/jo%C3%A3o-gabriel-mendes-686102328/)
 - 📧 Email: joaogabrielmendes047@gmail.com
 
-
-
+---
 
