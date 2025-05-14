@@ -36,7 +36,7 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
 <img 
   height="200" 
@@ -58,4 +58,3 @@
 - 📧 Email: joaogabrielmendes047@gmail.com
 
 ---
-
