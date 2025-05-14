@@ -25,6 +25,7 @@
   height="200" 
   src="https://github-readme-stats.vercel.app/api?username=joao-thd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
+
 <img 
   height="200" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-thd&theme=tokyonight&layout=compact&custom_title=Tecnologias"
@@ -75,21 +76,12 @@
 
 ---
 
-## 🌀 Atividades Recentes em 3D
-
-<div align="center">
-  <img src="https://github.com/joao-thd/joao-thd/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
-
----
 
 ## 📫 Contato
 
 - 💼 LinkedIn: [linkedin.com/in/joao-thd]([https://linkedin.com/in/joao-thd](https://www.linkedin.com/in/jo%C3%A3o-gabriel-mendes-686102328/))
 - 📧 Email: joaogabrielmendes047@gmail.com
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joao-thd&label=Visualizações&color=7a4b9f&style=flat" alt="Profile views"/>
-</p>
+
+
