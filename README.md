@@ -36,19 +36,24 @@
 
 ## 📈 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center">
 
-<img 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api?username=joao-thd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
+  <span style="display: inline-block; margin-right: 20px;">
+    <img 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api?username=joao-thd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
+  </span>
 
-<img 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-thd&theme=tokyonight&layout=compact&custom_title=Tecnologias"
-/>
+  <span style="display: inline-block;">
+    <img 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-thd&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+    />
+  </span>
 
 </div>
+
 
 ---
 
